@@ -8,7 +8,42 @@
     {
       "title": "Another Strean",
       "description": "Strean Descruotuib",
+      "userId": "118374505000795860369",
       "id": 2
+    },
+    {
+      "title": "Test3 - EDIT",
+      "description": "Test Description - EDIT",
+      "userId": "118374505000795860369",
+      "id": 3
+    },
+    {
+      "title": "Test4 with User - EDIT",
+      "description": "This is a stream with UserID - EDIT",
+      "id": 4
+    },
+    {
+      "title": "A New Stream",
+      "description": "Didn't expect that",
+      "userId": "118374505000795860369",
+      "id": 5
+    },
+    {
+      "title": "Test 5 - EDIT",
+      "description": "Test 5 Description - EDIT",
+      "id": 6
+    },
+    {
+      "title": "Test 6",
+      "description": "Test Description",
+      "userId": "118374505000795860369",
+      "id": 7
+    },
+    {
+      "title": "Test66",
+      "description": "Explain this stream",
+      "userId": "118374505000795860369",
+      "id": 8
     }
   ]
 }
