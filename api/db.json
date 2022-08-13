@@ -6,12 +6,6 @@
       "id": 1
     },
     {
-      "title": "Another Strean",
-      "description": "Strean Descruotuib",
-      "userId": "118374505000795860369",
-      "id": 2
-    },
-    {
       "title": "Test3 - EDIT",
       "description": "Test Description - EDIT",
       "userId": "118374505000795860369",
@@ -38,12 +32,6 @@
       "description": "Test Description",
       "userId": "118374505000795860369",
       "id": 7
-    },
-    {
-      "title": "Test66",
-      "description": "Explain this stream",
-      "userId": "118374505000795860369",
-      "id": 8
     }
   ]
 }
